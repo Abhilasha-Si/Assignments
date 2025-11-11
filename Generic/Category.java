@@ -1,3 +1,0 @@
-interface Category {
-    String getCategoryName();
-}
